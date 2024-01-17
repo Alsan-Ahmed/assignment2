@@ -355,7 +355,6 @@ input {
     gap: 20px;
     flex-direction: column;
     margin: 50px;
-    border-radius: 14px;
 }
 
 .packages-2 {
@@ -367,6 +366,7 @@ input {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    border-radius: 14px;
 }
 
 .packages-btn {
